@@ -19,9 +19,7 @@
 
 Keep up-to-date on our blog at [https://www.bc-security.org/blog][7]
 
-## Hack to Basics – Adapting Exploit Frameworks to Evade Microsoft ATP
-When: August 10, 2019 1000-1050  
-Where: Recon Village
+## Picking Bluetooth Low Energy Locks from a Quarter Mile Away
 
 Many Bluetooth Low Energy (BLE) enabled deadbolts and padlocks have hit the market recently. These devices promise convenience and security through smartphone control. We investigated sixteen of these products from multiple vendors and discovered wireless vulnerabilities in most of them. Using a $50 antenna, we successfully picked vulnerable locks from over 400 meters away. In this presentation we introduce open source tools to crack each of the vulnerable BLE locks. Furthermore, after surveying the open source Bluetooth hacking tools currently available, we find very little support for BLE. So, to make discovering and range finding to BLE devices easier, we introduce a new open source war-walking tool compatible with both Bluetooth Classic and BLE.
 
